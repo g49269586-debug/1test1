@@ -7,5 +7,6 @@
         Title="_123314wqew">
     <StackPanel>
 		<Button Margin="50"> 123 </Button>
+        <Button Margin="50 0"> 123 </Button>
     </StackPanel>
 </Window>
